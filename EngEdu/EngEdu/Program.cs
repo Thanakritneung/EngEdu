@@ -17,6 +17,7 @@ namespace EngEdu
             Console.WriteLine("Year 2558 semester 1, I learn to Laboratory,this's vary fun.");
             Console.WriteLine("Year 2558 semester 2, I am drop programming C.");
             Console.WriteLine("Year 2559 semester 1, I can draw Digital Circuits.");
+            Console.WriteLine("Year 2559 semester 2, I learn to VHDL,this's so hard.");
 
         }
     }
