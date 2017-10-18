@@ -19,7 +19,7 @@ namespace EngEdu
             Console.WriteLine("Year 2559 semester 1, I can draw Digital Circuits.");
             Console.WriteLine("Year 2559 semester 2, I learn to VHDL,this's so hard.");
             Console.WriteLine("Year 2560 semester 1, I have done research.");
-
+            Console.WriteLine("Year 2560 semester 2, I create controller.");
         }
     }
 }
