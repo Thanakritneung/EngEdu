@@ -21,7 +21,7 @@ namespace EngEdu
             Console.WriteLine("Year 2560 semester 1, I have done research.");
             Console.WriteLine("Year 2560 semester 2, I create controller.");
             Console.WriteLine("Year 2561 semester 1, I learn to JAVA script.");
-
+            Console.WriteLine("Year 2561 semester 2, I have done project.");
         }
     }
 }
